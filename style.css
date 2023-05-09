@@ -14,7 +14,7 @@ form {
   
   
   button {
-    background-color: #04AA6D;
+    background-color: #06c6ad;
     color: white;
     padding: 14px 20px;
     margin: 8px 0;
@@ -27,15 +27,8 @@ form {
   button:hover {
     opacity: 0.8;
   }
-  
+ 
 
-  .cancelbtn {
-    width: auto;
-    padding: 10px 18px;
-    background-color: #f44336;
-  }
-
-  
   .container {
     padding: 16px;
   }
