@@ -1,14 +1,8 @@
-<html> 
- <title>Welcome</title>
- <body>
- <h1>Welcome</h1>
- <?php
+<html>
+<body>
 
-?>
- <b>Here is some more HTML</b>
- <?php
- //more PHP code
- ?>
- 
- </body>
- </html>
+Welcome <?php echo $_POST["Name"]; ?><br>
+Your email address is: <?php echo $_POST["email"]; ?>
+
+</body>
+</html>
