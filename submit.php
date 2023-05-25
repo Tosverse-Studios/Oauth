@@ -2,7 +2,7 @@
 <body>
 
 Welcome <?php echo $_POST["Name"]; ?><br>
-Your email address is: <?php echo $_POST["email"]; ?>
+To The Tosverse Admin portal
 
 </body>
 </html>
